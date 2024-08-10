@@ -17,3 +17,12 @@ K.A.N.A.C is a hospital management system designed to streamline the management 
 - **Backend**: Python-Django.
 - **Database**: SQL, Xampp.
 - **Version Control**: Git & GitHub
+
+<img width="960" alt="Screenshot 2023-05-21 215630" src="https://github.com/user-attachments/assets/73395ae9-a8c8-46e8-a5fe-412c48c68cfa">
+<img width="960" alt="Screenshot 2023-05-21 215652" src="https://github.com/user-attachments/assets/085d7a0f-f3d1-448b-8591-2df8fc310c9b">
+<img width="957" alt="Screenshot 2023-05-21 215741" src="https://github.com/user-attachments/assets/2e1a2c2a-6093-43b8-ae6f-303b808d5e54">
+<img width="957" alt="Screenshot 2023-05-21 215753" src="https://github.com/user-attachments/assets/b85f2fab-3333-44a1-85de-076fc13c5fed">
+
+
+
+
